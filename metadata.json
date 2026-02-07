@@ -1,0 +1,7 @@
+{
+  "name": "FinanService AI - Controle de Prestação de Serviços",
+  "description": "Um aplicativo completo para gestão financeira de prestadores de serviços, com gráficos interativos, análise de IA e geração de imagens para marketing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
